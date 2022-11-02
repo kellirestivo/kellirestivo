@@ -5,5 +5,5 @@ I'm a PhD Candidate at Baylor College of Medicine in the [Tolias Lab](https://to
 
 I enjoy using predictive modeling techniques to probe difficult unanswered questions and expand the frontiers of neuroscience. In other news, my favorite hobbies are rock climbing 🧗‍ and classical piano 🎹
 
-[Google Scholar](https://scholar.google.com/citations?user=mfU9magAAAAJ&hl=en)
+[Google Scholar profile](https://scholar.google.com/citations?user=mfU9magAAAAJ&hl=en)
 
